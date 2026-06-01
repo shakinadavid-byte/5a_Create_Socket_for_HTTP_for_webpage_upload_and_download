@@ -69,7 +69,7 @@ This webpage is created for HTTP socket upload and download experiment.
 <h3>Student Details</h3>
 
 <ul>
-<li>Name : Vaishnavi T</li>
+<li>Name : Shakina D</li>
 <li>Department : CYB</li>
 <li>College : Saveetha Engineering College</li>
 </ul>
@@ -118,8 +118,7 @@ if __name__ == "__main__":
 ## OUTPUT:
 <img width="1711" height="937" alt="Screenshot 2026-05-23 201941" src="https://github.com/user-attachments/assets/68e13c5b-a173-4c17-afe6-4aaccc3caeb9" />
 
-<img width="1920" height="1200" alt="Screenshot 2026-05-29 202313" src="https://github.com/user-attachments/assets/78c0a134-b5e0-4deb-b44d-5af24d0fa828" />
-
+<img width="1920" height="1200" alt="Screenshot 2026-06-01 181015" src="https://github.com/user-attachments/assets/4f6fc026-2646-474d-8133-3c5fa714b20e" />
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
